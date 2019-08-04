@@ -50,6 +50,7 @@ layout: default
         </style>
 {% include head.html %}
 <nav>
+   <!-- background-image="/assets/img/headerimg.jpg"> -->
     <span style="font-size:30px;cursor:pointer;position:fixed;top:0" onclick="openNav()">&#9776; Buitenlust</span>
     
   <div id="mySidenav" class="sidenav">
@@ -57,7 +58,7 @@ layout: default
     {% include navigation.html navigation=site.data.navigation %}
   </div>
   
-  <!-- {% include header.html %} -->
+  {% include header.html %}
 </nav>
 
 
