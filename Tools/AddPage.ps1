@@ -1,9 +1,9 @@
 $name = Read-Host -Prompt 'Page name'
-Add-Content ..\buitenlust\pages\$name.md "---`nlayout: page"
+Add-Content .\pages\$name.md "---`nlayout: page"
 $titel ="title: "+ $name 
-Add-Content ..\buitenlust\pages\$name.md $titel
+Add-Content .\pages\$name.md $titel
 $section = "section: "+$name
-Add-Content ..\buitenlust\pages\$name.md $section
+Add-Content .\pages\$name.md $section
 $permalink ="permalink: /"+$name
-Add-Content ..\buitenlust\pages\$name.md $permalink
-Add-Content ..\buitenlust\pages\$name.md "`n---`n"
+Add-Content .\pages\$name.md $permalink
+Add-Content .\pages\$name.md "`n---`n"
