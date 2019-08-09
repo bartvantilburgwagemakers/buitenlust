@@ -4,9 +4,16 @@
   url: /
 - text: About
   url: /about
+  submenu: 
+      - name: About
+        url: /about
+      - name: test
+        url: /contact   
 - text: Contact
   url: /contact
 - text: Blog
   url: /blog
+- text: Omgeving
+  url: /omgeving
 - text: Aanvraag formulier
   url: https://docs.google.com/forms/d/e/1FAIpQLSfRV-orUq02Q_T9FQoms6pTPyC3AcbCML4Vmj0jG__CFAJssg/viewform?embedded=true#start=embed
