@@ -89,7 +89,8 @@ If you need any help with setting up Netlify CMS, you can reach out to the Netli
 https://cobwwweb.com/use-purge-css-to-optimize-jekyll
 
 ### insperation sites:
-https://www.boston.gov
-https://chrisbobbe.github.io/jekyll-theme-prologue/
-http://jekyllthemes.org/themes/hanuman/
-https://shawnteoh.github.io/matjek/projects
+- <https://www.boston.gov> 
+- <https://chrisbobbe.github.io/jekyll-theme-prologue/>
+- <http://jekyllthemes.org/themes/hanuman/>
+- <http://jekyllthemes.org/themes/matjek/>
+- <https://github.com/ShawnTeoh/matjek>
