@@ -13,7 +13,7 @@ Voor 2019 is de prijs per persoon per nacht € 2,00.
 
 Reservering kan UITSLUITEND d.m.v. het reserveringsformulier. Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldig kampeererkenning vereist.
 
-## Aankomst en vertrek:
+## Aankomst en vertrek
 
 Elke groep is verplicht zich te melden bij de beheerder. Deze zal U naar Uw terrein brengen. Laden en lossen moet gebeuren vanaf de openbare weg. Na het lossen moet de auto geparkeerd worden op het parkeerterrein. Vöör vertrek dient elke groep zich te melden bij de beheerder en het kampterrein te laten controleren.
 
