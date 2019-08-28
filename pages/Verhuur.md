@@ -7,7 +7,9 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 ---
 
 ## Kampregels
-VERANTWOORDELIJKHEDEN:
+
+### Verantwoordelijkheden
+
 Het kampeerterrein ligt tegen het natuurgebied van het Brabants Landschap en stichting Scouting Labelterrein Buitenlust is eigenaar en verantwoordelijk voor de coördinatie en het beheer m.b.t het kamperen door leden van Scouting Nederland of aanverwante organisaties.
 Het terrein is uitsluitend bestemd voor tentkampeerders.
 De beheerder is als enige bevoegd op het kampreglement uitzonderingen te maken.
@@ -84,33 +86,7 @@ Deze borgsom wordt na afloop van het kamp na ongeveer 2 weken, onder voorbehoud 
 De kosten van deze borgsom zijn € 75,00 . U kunt deze borgsom overmaken op GIRO-nummer: NL78INGB0000820497 t.n.v. Stichting Scouting Labelterrein Buitenlust, o.v.v. uw groepsnaam + kampeerperiode.
 
 ## Overzicht beschikbare terreinen
-<table >
-<tbody>
-<tr>
-<td><span style="background-color: #cca6ac;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
-<td><span style="color: #008000;">Alle velden</span>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td><span style="background-color: #9fe1e7;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span>&nbsp;</td>
-<td><span style="color: #008000;">Groeneveld</span>&nbsp;&nbsp; &nbsp;</td>
-<td><span style="background-color: #a47ae2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
-<td><span style="color: #008000;">Douglas</span>&nbsp;&nbsp;&nbsp;</td>
-<td><span style="background-color: #9a9cff;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></td>
-<td><span style="color: #008000;">Kostka</span>&nbsp;&nbsp;</td>
-</tr>
-<tr>
-<td><span style="background-color: #16a765;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
-<td><span style="color: #008000;">Moermont</span>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td><span style="background-color: #fad165;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span>&nbsp;</td>
-<td><span style="color: #008000;">Pinsen</span>&nbsp;&nbsp; &nbsp;</td>
-<td><span style="background-color: #cd74e6;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
-<td><span style="color: #008000;">Roovere</span>&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</tbody>
-</table>
- 
-Er kunnen GEEN rechten aan dit overzicht ontleend worden !!! 
-     
-<span style="background-color: #cca6ac;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>  Alle velden
 
-    ---|---|---
-    Groeneveld | Douglas | Kostka
-    Moermont | Pinsen | Roovere
+Er kunnen GEEN rechten aan dit overzicht ontleend worden !!!
+
+{% include VerhuurCalendar.html %}
