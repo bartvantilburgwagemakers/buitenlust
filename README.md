@@ -72,6 +72,7 @@ Clone this repository and run:
 bundle install
 bundle exec jekyll server --watch
 ```
+
 Jekyll will watch your project folder for changes.
 
 Now navigate to [localhost:4000](http://localhost:4000/) to preview the site, and
@@ -84,7 +85,6 @@ This is an ongoing project and I welcome any feedback, suggestions or contributi
 Please use the issue tracker to let me know about any bugs or feature requests, or alternatively make a pull request.
 
 If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
-
 
 https://cobwwweb.com/use-purge-css-to-optimize-jekyll
 
