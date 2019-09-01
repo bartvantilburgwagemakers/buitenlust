@@ -1,34 +1,33 @@
-- titel: Natuurcentrum de Kraaijenberg
+- title: Natuurcentrum de Kraaijenberg
   adres: Fianestraat 21, 4617 RA  Bergen op Zoom  
   tel: 0164-235210
   url: http://www.brabantslandschap.nl/ontdek-de-natuur/infocentra/bezoekerscentrum-de-kraaijenberg/
-  catagory: natuur
+  category: natuur
   img: /../assets/img/bezoekerscentrum-de-Kraaijenberg_26096.jpg
-- titel: Natuurpodium Brabantse Wal
+- title: Natuurpodium Brabantse Wal
   adres: Boslustweg 1, 4624 RB  Bergen op Zoom
   tel: 0164-256387
   url: http://natuurpodium.nl/
-  catagory: natuur
+  category: natuur
   img: /../assets/img/natuurpodium.jpg
-- titel: Fort de Roovere
+- title: Fort de Roovere
   adres: aan de Schansbaan/ Ligneweg
   url: https://www.zuiderwaterlinie.nl/11-vestingsteden/forten-in-nederland/fort-roovere
-  catagory: natuur
+  category: natuur
   img: /../assets/img/fort de Roovere.jpg
-- titel: De Brabantse Wal
+- title: De Brabantse Wal
   img: /../assets/img/Brabantse wal.png
-  catagory: natuur
+  category: natuur
   url: https://brabantsewal.nl/
-- titel: Binnenzwembad De Schelp
+- title: Binnenzwembad De Schelp
   adres: De Boulevard Noord 5, 4617 HD Bergen op Zoom
   tel: 0164 - 230799
   url: https://zwembaddeschelp.nl/
   img: /../assets/img/splash_de_schelp.png
-  catagory: zwembaden
-- titel: Buitenzwembad De Melanen 
+  category: zwembaden
+- title: Buitenzwembad De Melanen 
   adres: Langstraat 7, 4661 SE Halsteren
   tel: 0164 -230799
   url: https://zwembaddeschelp.nl/geen-categorie/de-melanen-2
   img: /../assets/img/splash_melanen.png
-  catagory: zwembade
-  
+  category: zwembade

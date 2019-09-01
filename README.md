@@ -86,13 +86,14 @@ Please use the issue tracker to let me know about any bugs or feature requests, 
 
 If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
 
-https://cobwwweb.com/use-purge-css-to-optimize-jekyll
+<https://cobwwweb.com/use-purge-css-to-optimize-jekyll>
 
-### insperation sites:
-- <https://www.boston.gov> 
-- <https://chrisbobbe.github.io/jekyll-theme-prologue/>
-- <http://jekyllthemes.org/themes/hanuman/>
-- <http://jekyllthemes.org/themes/matjek/>
-- <https://github.com/ShawnTeoh/matjek>
+### insperation sites
 
--<https://github.com/daattali/beautiful-jekyll#readme>
+* <https://www.boston.gov>
+* <https://chrisbobbe.github.io/jekyll-theme-prologue/>
+* <http://jekyllthemes.org/themes/hanuman/>
+* <http://jekyllthemes.org/themes/matjek/>
+* <https://github.com/ShawnTeoh/matjek>
+* <https://github.com/daattali/beautiful-jekyll#readme>
+  
