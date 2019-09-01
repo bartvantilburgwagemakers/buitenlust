@@ -13,3 +13,5 @@ intro_paragraph: |-
 ---
 
 **Send us a message**
+
+This project is maintained on gitHub view the repo on <a href="https://github.com/bartvantilburgwagemakers/buitenlust" rel="noopener">Github</a>

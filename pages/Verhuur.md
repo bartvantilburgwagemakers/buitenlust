@@ -90,3 +90,9 @@ De kosten van deze borgsom zijn € 75,00 . U kunt deze borgsom overmaken op GIR
 Er kunnen GEEN rechten aan dit overzicht ontleend worden !!!
 
 {% include VerhuurCalendar.html %}
+
+## Ontruimingsplan
+
+Op onderstaaand kaartje kun je de vluchtroutes zien.
+
+![ontruimingplan](../assets/img/Ontruimingsplan-2.jpg)
