@@ -94,3 +94,5 @@ https://cobwwweb.com/use-purge-css-to-optimize-jekyll
 - <http://jekyllthemes.org/themes/hanuman/>
 - <http://jekyllthemes.org/themes/matjek/>
 - <https://github.com/ShawnTeoh/matjek>
+
+-<https://github.com/daattali/beautiful-jekyll#readme>
