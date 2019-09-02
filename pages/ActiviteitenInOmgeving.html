@@ -1,0 +1,28 @@
+---
+layout: page
+title: ActiviteitenInOmgeving
+section: ActiviteitenInOmgeving
+permalink: /ActiviteitenInOmgeving
+intro_paragraph: Hieronder vindt je een lijst met activiteiten die je met je groep kunt bezoeken.
+---
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+<div class="container" role="main">
+
+    {% assign activiteiten_by_category = site.data.activiteiten | sort: "category" %}
+    {% for activity in activiteiten_by_category %}
+    {% if activity.category != current_activity %}
+    {% assign current_activity = activity.category %}
+    <div class="row">
+        <h2>{{ current_activity }}</h2>
+        {% endif %}
+        <div class="col-md-6" >
+            <h4>{{ activity.title }}</h4>
+            Adres: {{ activity.adres }}<br />
+            <a href="Tel:{{activity.tel}}"> Tel: {{activity.tel}}</a><br />
+            <a href="{{activity.url}}"> website</a>
+            <img src="{{activity.img}}" alt="image for {{activity.title}}" style="max-width:200px;max-height:200px;">
+        </div>
+        <br/>
+        {% endfor %}
+    </div>
+</div>

@@ -2,41 +2,35 @@
   adres: Fianestraat 21, 4617 RA  Bergen op Zoom  
   tel: 0164-235210
   url: http://www.brabantslandschap.nl/ontdek-de-natuur/infocentra/bezoekerscentrum-de-kraaijenberg/
-  category: natuur
+  category: Natuur
   img: /../assets/img/bezoekerscentrum-de-Kraaijenberg_26096.jpg
 - title: Natuurpodium Brabantse Wal
   adres: Boslustweg 1, 4624 RB  Bergen op Zoom
   tel: 0164-256387
   url: http://natuurpodium.nl/
-  category: natuur
+  category: Natuur
   img: /../assets/img/natuurpodium.jpg
 - title: Fort de Roovere
   adres: aan de Schansbaan/ Ligneweg
   url: https://www.zuiderwaterlinie.nl/11-vestingsteden/forten-in-nederland/fort-roovere
-  category: natuur
+  category: Natuur
   img: /../assets/img/fort de Roovere.jpg
 - title: De Brabantse Wal
   img: /../assets/img/Brabantse wal.png
-  category: natuur
+  category: Natuur
   url: https://brabantsewal.nl/
 - title: Binnenzwembad De Schelp
   adres: De Boulevard Noord 5, 4617 HD Bergen op Zoom
   tel: 0164 - 230799
   url: https://zwembaddeschelp.nl/
   img: /../assets/img/splash_de_schelp.png
-  category: zwembaden
+  category: Zwembaden
 - title: Buitenzwembad De Melanen 
   adres: Langstraat 7, 4661 SE Halsteren
   tel: 0164 -230799
   url: https://zwembaddeschelp.nl/geen-categorie/de-melanen-2
   img: /../assets/img/splash_melanen.png
-  category: zwembaden
-- title:  Stadsspeeltuin Van Glymes
-  adres: Geertrudisboulevard 225, 4615 MA  Bergen op Zoom
-  tel: 0164-235665
-  category: Speeltuinen
-  url: http://stadsspeeltuin.nl/
-  img: /../assets/img/Glymes.jpg
+  category: Zwembaden
 - title: Monkey Town
   adres: Langstraat 5, 4661 SE  Bergen op Zoom
   tel:  0164-851888
@@ -62,7 +56,7 @@
   url: https://www.akkermans.com/
   img: /../assets/img/AkkermansGrootTransparant.png
 - title: Bowling Bergen op Zoom
-  adres:  Markiezaatsweg 25, 4615 PA  Bergen op Zoom
+  adres: Markiezaatsweg 25, 4615 PA  Bergen op Zoom
   tel: 0164-657572
   url: http://www.bowlingbergenopzoom.nl/index.html
   img: /../assets/img/LogoBowlingBergen op Zoom.png
