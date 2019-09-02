@@ -2,20 +2,18 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-  submenu: 
-      - name: About
-        url: /about
-      - name: test
-        url: /contact   
+- text: Aanvraag formulier
+  url: /aanvraag
+- text: info
+  url: /info
 - text: Contact
   url: /contact
-- text: Blog
-  url: /blog
+- text: terrein
+  url: /terrein
 - text: Omgeving
   url: /omgeving
-- text: Info
-  url: /info
-- text: Aanvraag formulier
-  url: https://docs.google.com/forms/d/e/1FAIpQLSfRV-orUq02Q_T9FQoms6pTPyC3AcbCML4Vmj0jG__CFAJssg/viewform?embedded=true#start=embed
+  submenu: 
+      - name: Activiteiten in Omgeving
+        url: /ActiviteitenInOmgeving
+- text: verhuur
+  url: /Verhuur

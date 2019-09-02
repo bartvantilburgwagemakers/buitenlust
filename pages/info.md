@@ -5,6 +5,16 @@ section: info
 permalink: /info
 
 ---
+
+- [Overnachtingsprijs](#overnachtingsprijs)
+- [Reservering](#reservering)
+- [Aankomst en vertrek](#aankomst-en-vertrek)
+- [Beheerder](#beheerder)
+- [Routebeschtijving](#routebeschtijving)
+  - [Openbaar vervoer](#openbaar-vervoer)
+- [Beheer](#beheer)
+- [Telefoon](#telefoon)
+
 ## Overnachtingsprijs
 
 Voor 2019 is de prijs per persoon per nacht € 2,00.

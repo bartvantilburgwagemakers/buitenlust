@@ -30,4 +30,44 @@
   tel: 0164 -230799
   url: https://zwembaddeschelp.nl/geen-categorie/de-melanen-2
   img: /../assets/img/splash_melanen.png
-  category: zwembade
+  category: zwembaden
+- title:  Stadsspeeltuin Van Glymes
+  adres: Geertrudisboulevard 225, 4615 MA  Bergen op Zoom
+  tel: 0164-235665
+  category: Speeltuinen
+  url: http://stadsspeeltuin.nl/
+  img: /../assets/img/Glymes.jpg
+- title: Monkey Town
+  adres: Langstraat 5, 4661 SE  Bergen op Zoom
+  tel:  0164-851888
+  category: Speeltuinen
+  url: http://www.monkeytown.eu/bergenopzoom
+  img: /../assets/img/Monkey Town.png
+- title: Klimbos de Brabantse Wal
+  category: Outdoor
+  adres: Boslustweg 1, 4624 RB  Bergen op Zoom
+  tel: 088-5545536
+  url: http://klimbos.nl/klimbos-brabantse-wal/
+  img: /../assets/img/Klimbos.png
+- title:  Ego Indoorski
+  category: Outdoor
+  adres:  Oude Wouwsebaan 14, 4621 JE  Bergen op Zoom
+  tel: 0164-211495
+  url: http://egoindoorski.nl/
+  img: /../assets/img/Ego.jpg
+- title: Akkermans Leisure & Golf
+  category: Outdoor
+  adres: Heense Molenweg 23, 4655 TB  De Heen
+  tel: 0167-502621
+  url: https://www.akkermans.com/
+  img: /../assets/img/AkkermansGrootTransparant.png
+- title: Bowling Bergen op Zoom
+  adres:  Markiezaatsweg 25, 4615 PA  Bergen op Zoom
+  tel: 0164-657572
+  url: http://www.bowlingbergenopzoom.nl/index.html
+  img: /../assets/img/LogoBowlingBergen op Zoom.png
+- title: VVV de Brabantse Wal
+  adres: Steenbergsestraat 6, 4611 TE Bergen op Zoom
+  tel: 0164-277482
+  url: http://www.vvvbrabantsewal.nl/
+  img: /../assets/img/VVV_Logo.svg

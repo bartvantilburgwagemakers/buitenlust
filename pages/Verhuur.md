@@ -6,6 +6,12 @@ permalink: /Verhuur
 intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terreinen.
 ---
 
+- [Kampregels](#kampregels)
+  - [Verantwoordelijkheden](#verantwoordelijkheden)
+- [BORGSOM](#borgsom)
+- [Overzicht beschikbare terreinen](#overzicht-beschikbare-terreinen)
+- [Ontruimingsplan](#ontruimingsplan)
+
 ## Kampregels
 
 ### Verantwoordelijkheden
