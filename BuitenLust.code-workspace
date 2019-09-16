@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"git.allowForcePush": true
+		"git.allowForcePush": true,
+		"cSpell.language": ",nl"
 	}
 }

@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Label terein Buitenlust 
+title: Label terrein Buitenlust 
 
 # Short description of your site
-description: Site over het label terein 
+description: Site over het label terrein 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,14 +20,9 @@ description: Site over het label terein
 
 # List of links in the navigation bar
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
   Aanvraag formulier : "/aanvraag"
   info : "/info"
-  Contact : "/contact"
-  Terein : "/terrein"
+  Terrein : "/terrein"
   Omgeving:
   - Omgeving : "/omgeving"
   - Activiteiten in Omgeving : "/ActiviteitenInOmgeving"
@@ -74,10 +69,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  # rss: true
+  # email: "someone@example.com"
+  # facebook: deanattali
+  github: bartvantilburgwagemakers
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -99,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "buitenlust.net"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

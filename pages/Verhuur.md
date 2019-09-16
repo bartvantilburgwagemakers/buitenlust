@@ -101,4 +101,4 @@ Er kunnen GEEN rechten aan dit overzicht ontleend worden !!!
 
 Op onderstaaand kaartje kun je de vluchtroutes zien.
 
-![ontruimingplan](../assets/img/Ontruimingsplan-2.jpg)
+![ontruimingplan](../assets/img/ontruimingsroute-2.jpg)

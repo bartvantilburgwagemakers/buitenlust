@@ -5,9 +5,8 @@ section: ActiviteitenInOmgeving
 permalink: /ActiviteitenInOmgeving
 intro_paragraph: Hieronder vindt je een lijst met activiteiten die je met je groep kunt bezoeken.
 ---
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
 <div class="container" role="main">
-
+<h2>Hieronder vindt je een lijst met activiteiten die je met je groep kunt bezoeken.</h2> <br/><br/>
     {% assign activiteiten_by_category = site.data.activiteiten | sort: "category" %}
     {% for activity in activiteiten_by_category %}
     {% if activity.category != current_activity %}
@@ -19,7 +18,7 @@ intro_paragraph: Hieronder vindt je een lijst met activiteiten die je met je gro
             <h4>{{ activity.title }}</h4>
             Adres: {{ activity.adres }}<br />
             <a href="Tel:{{activity.tel}}"> Tel: {{activity.tel}}</a><br />
-            <a href="{{activity.url}}"> website</a>
+            <a href="{{activity.url}}"> website</a><br/>
             <img src="{{activity.img}}" alt="image for {{activity.title}}" style="max-width:200px;max-height:200px;">
         </div>
         <br/>
