@@ -12,7 +12,7 @@ Buitenlust is eigendom van "Het Brabants Landschap" en is een prachtig natuurgeb
 
 ![tent](/assets/img/tent.gif)
 
-We hebben de vogende tereinen
+We hebben de volgende treinen
 
 - [Douglas](http://www.buitenlust.net/images/fotos/SimpleViewer/Douglas/index.html)
 - [Het Groene Veld](http://www.buitenlust.net/images/fotos/SimpleViewer/het%20Groene%20Veld/index.html)
@@ -25,5 +25,5 @@ Voorzieningen:
 
 - [Kampvuurkuil](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
 - [Toiletgebouw](http://www.buitenlust.net/images/fotos/SimpleViewer/Toiletgebouw/index.html)
-- Mileu hok![Mileu hok foto](../assets/img/IMG-20190624-WA0000.jpg)
+- Milieu hok![Milieu hok foto](../assets/img/IMG-20190624-WA0000.jpg)
   

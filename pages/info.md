@@ -10,7 +10,7 @@ permalink: /info
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
 - [Beheerder](#beheerder)
-- [Routebeschtijving](#routebeschtijving)
+- [Routebeschrijving](#routebeschrijving)
   - [Openbaar vervoer](#openbaar-vervoer)
 - [Beheer](#beheer)
 - [Telefoon](#telefoon)
@@ -32,7 +32,7 @@ Elke groep is verplicht zich te melden bij de beheerder. Deze zal U naar Uw terr
 Dhr. Ger Radt Groeshof 32 4623 AR Bergen op Zoom  
 Tel.: [06 - 22 40 29 82](tel:0622402982) Email: Ger Radt .
 
-## Routebeschtijving
+## Routebeschrijving
 
 Deze is direct uit te printen via de routeplanner op deze site.
 

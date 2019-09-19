@@ -11,7 +11,7 @@ intro_paragraph: Hieronder vindt je een lijst met activiteiten die je met je gro
     {% for activity in activiteiten_by_category %}
     {% if activity.category != current_activity %}
     {% assign current_activity = activity.category %}
-    <div class="row">
+    <!-- <div class="row"> -->
         <h2>{{ current_activity }}</h2>
         {% endif %}
         <div class="col-md-6" >
