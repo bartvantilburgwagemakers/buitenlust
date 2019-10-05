@@ -228,6 +228,10 @@ Want your website featured here? [Contact me](https://deanattali.com/aboutme#con
 | [ocram85.com](https://ocram85.com) | Marco Blessing | A personal blog about PowerShell and automation |
 | [khanna.cc](https://khanna.cc/) | Harry Khanna | Law and software |
 
+## Local development
+
+Run `bundle exec jekyll serve` in ubuntu 
+
 ## Advanced: Local development using Docker
 
 Beautiful Jekyll is meant to be so simple to use that you can do it all within the browser. However, if you'd like to develop locally on your own machine, that's possible too if you're comfortable with command line. Follow these simple steps set that up with Docker:
