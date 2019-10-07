@@ -6,12 +6,12 @@ permalink: /Verhuur
 intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terreinen.
 ---
 
-- [Kampregels](#kampregels)
+- [kampeerreglement](#kampeerreglement)
 - [BORGSOM](#borgsom)
 - [Overzicht beschikbare terreinen](#overzicht-beschikbare-terreinen)
 - [Ontruimingsplan](#ontruimingsplan)
 
-## Kampregels
+## kampeerreglement
 
 Het kampeerterrein ligt tegen het natuurgebied van het Brabants Landschap aan. Stichting Scouting Labelterrein Buitenlust is eigenaar en verantwoordelijk voor de coördinatie en het beheer m.b.t het kamperen door leden van Scouting Nederland of aanverwante organisaties.
 Het terrein is uitsluitend bestemd voor tentkampeerders.

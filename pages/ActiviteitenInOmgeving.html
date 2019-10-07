@@ -12,14 +12,19 @@ intro_paragraph: Hieronder vindt je een lijst met activiteiten die je met je gro
     {% if activity.category != current_activity %}
     {% assign current_activity = activity.category %}
     <!-- <div class="row"> -->
-        <h2>{{ current_activity }}</h2>
+        <!-- <h2>{{ current_activity }}</h2> -->
         {% endif %}
         <div class="col-md-6" >
             <h4>{{ activity.title }}</h4>
+            {% if activity.adres %}
             Adres: {{ activity.adres }}<br />
+            {% endif %}
+            {% if activity.tel %}
             <a href="Tel:{{activity.tel}}"> Tel: {{activity.tel}}</a><br />
-            <a href="{{activity.url}}"> website</a><br/>
+            {% endif %}
+            <a href="{{activity.url}}"> website<br/>
             <img src="{{activity.img}}" alt="image for {{activity.title}}" style="max-width:200px;max-height:200px;">
+        </a>
         </div>
         <br/>
         {% endfor %}
