@@ -20,20 +20,24 @@ In situaties met betrekking tot kamperen, waarin dit reglement niet in voorziet,
 Stichting Scouting Labelterrein Buitenlust kan niet aansprakelijk voor materiële en of persoonlijke schade
 welke tijdens de huurperiode plaatsvindt. De groep dient hierin zelf te voorzien in de vorm van eigen aansprakelijkheid- cg aanvullende verzekering.
 Indien door onvoorziene omstandigheden, calamiteiten, overmacht van buitenaf de verhuur moet worden afgebroken of niet door kan gaan, dan kan de huurder de verhuurder hiervoor niet financieel of persoonlijkaansprakelijk stellen inzake de hieruit voortvloeiende kosten gemaakt door huurder.  
-RESERVERING:
+
+RESERVERING:  
 De reservering is pas definitief, als de huurovereenkomst terug is bij de beheerder en de waarborgsom is voldaan en door de beheerder een bevestiging is afgegeven.  
+
 KAMPEER KWALIFICATIE:
 Één kaderlid per kampeergroep dient in het bezit te zijn van een juiste kampeer kwalificatie van Scouting Nederland.
-AANKOMST EN VERTREK:
+
+AANKOMST EN VERTREK:  
 Bij aankomst dient men zich direct te melden bij de beheerder. Die verwijst U naar uw terrein. U dient bij aankomst ook de calamiteitenlijst bij te hebben en af te geven aan de beheerder.
 Deze is bedoeld voor calamiteiten en ontruiming van het terrein. Na afloop van de kampeerperiode wordt de calamiteitenlijst in het kader van de privacy afspraken van Scouting Nederland door de beheerder van Scouting Labelterrein Buitenlust teruggegeven aan de verantwoordelijk leider/leidster van de vertrekkende groep.
 Bij vertrek is elke groep verplicht het kampeerterrein  schoon en opgeruimd achter te laten. Men kan pas vertrekken indien het kapeerterrein gecontroleerd is door de beheerder en in orde is bevonden.
 Het geheel of eventueel restant van de waarborgsom (zie ook 1e punt onder "schade") wordt ±  twee weken na vertrek terug gestort. Dit wel na controle en of eventuele verrekening.
-Schade:
 
+Schade:  
 Schade toegebracht aan terrein en/of gebouwen wordt op de waarborgsom in mindering gebracht. De bedragen staan vermeldt op een schadelijst in het kantoor van de beheerder.
 Overschrijdt de schade de waarborgsom, dan dient het ontbrekende bedrag te worden bijbetaald uiterlijk binnen 4 weken na constatering en na mondelinge/schriftelijke melding schadeformulier. Daarna wordt de wettelijke opslagrente berekend.
-KAMPEERTERREINEN:
+
+KAMPEERTERREINEN:  
 
 Kamperen is alleen toegestaan op de daarvoor aangewezen plaatsen.
 Voor groepen zijn de volgende terreinen beschikbaar (zie overzichtskaart):
@@ -52,7 +56,8 @@ Het is niet toegestaan met auto's, motoren of bromfietsen door het bos of kampee
 Auto´s, vrachtauto's busjes en aanhangers kunnen opm de weg gelost en geladen worden en dienen daarna naar de aangewezen vaste parkeerplaats gebracht te worden.
 Voor zware bagage zijn twee handkarren  en één kruiwagen beschikbaar te verkrijgen bij de beheerder.
 De parkeerplaats mag, in verband met veiligheid, niet voor kampactiviteiten gebruikt worden.
-KAMPVUURKUIL:
+
+KAMPVUURKUIL:  
 
 Kampvuur kan uitsluitend alleen in de kampvuurkuil en altijd in overleg met de beheerder plaats vinden.
 Alle overige vormen van (open) vuur zijn ten strengste verboden. Onder stookvuren worden alle vormen van vuur verstaan.

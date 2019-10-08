@@ -9,6 +9,7 @@ permalink: /info
 - [Overnachtingsprijs](#overnachtingsprijs)
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
+- [informatie boekje](#informatie-boekje)
 - [Contact gegevens](#contact-gegevens)
 - [Routebeschrijving](#routebeschrijving)
   - [Openbaar vervoer](#openbaar-vervoer)
@@ -25,6 +26,10 @@ Reservering kan UITSLUITEND d.m.v. het [reserveringsformulier.](/aanvraag) Deze 
 ## Aankomst en vertrek
 
 Elke groep is verplicht zich te melden bij de beheerder. Deze zal U naar Uw terrein brengen. Laden en lossen moet gebeuren vanaf de openbare weg. Na het lossen moet de auto geparkeerd worden op het parkeerterrein. Voor vertrek dient elke groep zich te melden bij de beheerder en het kampterrein te laten controleren.
+
+## informatie boekje
+
+[Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2019.pdf)
 
 ## Contact gegevens
 

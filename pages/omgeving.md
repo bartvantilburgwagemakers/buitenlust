@@ -1,12 +1,10 @@
 ---
 layout: page
-title: omgeving
+title: Bergen op Zoom
 section: omgeving
 permalink: /omgeving
 
 ---
-
-## Bergen op Zoom
 
 Bergen op Zoom is reeds in de 13e eeuw ontstaan. Al vrij snel zijn drie kernen te onderscheiden, die de latere stad vormen: het Markiezenhof met zijn agrarische omgeving, de Grote Markt het handelscentrum en de haven met de Dubbelstraat waar de nijverheid zich concentreerde. Deze nijverheid bestond vooral uit zoutziederijen, meekrapstoven en pottenbakkerijen. De eerste twee kernen zijn omstreeks 1330 ommuurd. De Lievevrouwepoort was de westelijke toegang. Aan het eind van de 15de eeuw werd ook het havengebied in de omwalling opgenomen. In het midden van de 13de eeuw heeft Bergen op Zoom stadsrechten gekregen. Hierna groeide de plaats uit tot een volwaardige stad. Het werd het bestuurscentrum van het Land van Bergen op Zoom (West Brabant) dat al in 1287 een aparte heerlijkheid was geworden. De Heren verleenden talrijke voorrechten welke tot een voorspoedige ontwikkeling van de stad bijdroegen. Vooral door de jaarmarkten, Paasmarkt en de Koude Markt in november kreeg de stad internationale bekendheid. Kooplieden uit verschillende europese landen bezochten de stad. De bloei kwam tot uitdrukking door de groots opgezette uitbreidingen van de St. Gertrudiskerk (in de volksmond "De Peperbus"). In 1533 werd Stad en land tot Markiezaat verheven.
 

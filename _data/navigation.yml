@@ -10,10 +10,10 @@
   url: /contact
 - text: terrein
   url: /terrein
-- text: Omgeving
+- text: Bergen op Zoom
   url: /omgeving
   submenu: 
-      - name: Activiteiten in Omgeving
+      - name: Activiteiten
         url: /ActiviteitenInOmgeving
 - text: verhuur
   url: /Verhuur

@@ -8,6 +8,6 @@ intro_paragraph: >
 ---
 Locatie Labelterrein:  
 Buitenlust 11, 4661 AL.  
-Halsteren (gemeente Bergen op Zoom)
-( Geen post adres behalve voor de post aan de groepen)
+Halsteren, gemeente Bergen op Zoom  
+Geen post adres behalve voor de post aan de groepen
 ![lucht foto terrein](../assets/img/overzichtsfoto.jpg)
