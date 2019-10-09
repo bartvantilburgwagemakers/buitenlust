@@ -66,6 +66,10 @@
   url: http://www.vvvbrabantsewal.nl/
   img: /../assets/img/VVV_Logo.svg
 - titel: Uitagenda Bergen op Zoom
-  adres: http://www.berregsbulleke.nl/uitagenda/
+  url: http://www.berregsbulleke.nl/uitagenda/
   img: /../assets/img/logoBergsbulleke.jpg
-  
+- title: joy company
+  url: http://joy-company.nl/
+  tel: 06 44 23 68 40
+  img: /../assets/img/joycompany.png
+  category: groepsuitjes

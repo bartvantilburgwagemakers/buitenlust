@@ -21,7 +21,7 @@ We hebben de volgende treinen
 - [Pinsen](http://www.buitenlust.net/images/fotos/SimpleViewer/Pinsen/index.html)
 - [Roovere](http://www.buitenlust.net/images/fotos/SimpleViewer/Roovere/index.html)
 
-![terrein overzicht](../assets/img/overzichtkaart.jpg)
+![terrein overzicht](../assets/img/overzichtskaart.jpg)
 
 Voorzieningen:
 
