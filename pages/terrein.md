@@ -14,6 +14,8 @@ Buitenlust is eigendom van "Het Brabants Landschap" en is een prachtig natuurgeb
 
 We hebben de volgende treinen
 
+{% include image-gallery.html folder="/assets/img/Velden" %}
+
 - [Douglas](http://www.buitenlust.net/images/fotos/SimpleViewer/Douglas/index.html)
 - [Het Groene Veld](http://www.buitenlust.net/images/fotos/SimpleViewer/het%20Groene%20Veld/index.html)
 - [Kostka](http://www.buitenlust.net/images/fotos/SimpleViewer/Kostka/index.html)
