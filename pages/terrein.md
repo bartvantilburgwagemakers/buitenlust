@@ -18,27 +18,32 @@ We hebben de volgende treinen
 
 ### [Douglas](http://www.buitenlust.net/images/fotos/SimpleViewer/Douglas/index.html)
   Een mooi stukje bos met Douglas sparren geschikt voor groepen tot 50 personen.
-
+{% include image-gallery.html folder="/assets/img/Velden/Douglas" %}
 
 ### [Het Groene Veld](http://www.buitenlust.net/images/fotos/SimpleViewer/het%20Groene%20Veld/index.html)
   De naam van dit terrein geeft weer dat dit terrein een groot grasveld is, geschikt voor groepen tot ca. 60 personen. Dit veld is het best toegankelijk voor rolstoelen en kan uitsluitend voor groepen met kinderen met een handicap, indien gewenst, tijdelijk voorzien worden van een elektrische aansluiting.
+  {% include image-gallery.html folder="/assets/img/Velden/HetGroeneVeld" %}
 
 ### [Kostka](http://www.buitenlust.net/images/fotos/SimpleViewer/Kostka/index.html)
+Dit veld is vernoemd naar Broeder Kostka die tot in de jaren 70 beheerder was van het voormalig kampeerterrein Boslust ten oosten van de stad.
+Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit veld is geschikt voor groepen tot ca. 40 personen.
+{% include image-gallery.html folder="/assets/img/Velden/Kostka" %}
 
 ## Forten
 Rondom Bergen op Zoom lagen als onderdeel van de Zuidelijke Waterlinie een drietal forten. De onderstaande drie velden zijn naar deze forten vernoemd.
 
 ### [Moermont](http://www.buitenlust.net/images/fotos/SimpleViewer/Moermont/index.html)
 Ook dit is een prachtig stuk bus met Douglas sparren maar heeft een meer open karakter en is geschikt voor groepen tot 50 personen.
+{% include image-gallery.html folder="/assets/img/Velden/Moermont" %}
 
 ### [Pinsen](http://www.buitenlust.net/images/fotos/SimpleViewer/Pinsen/index.html)
 Een intiemer veldje met veelal loofbomen. Geschikt voor groepen tot 20 personen.
-
+{% include image-gallery.html folder="/assets/img/Velden/Pinsen" %}
 
 ### [Roovere](http://www.buitenlust.net/images/fotos/SimpleViewer/Roovere/index.html)
 Dit veld is vernoemd naar Broeder Kostka die tot in de jaren 70 beheerder was van het voormalig kampeerterrein Boslust ten oosten van de stad.
 Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit veld is geschikt voor groepen tot ca. 40 personen.
-
+{% include image-gallery.html folder="/assets/img/Velden/Roovere" %}
 
 ![terrein overzicht](../assets/img/overzichtskaart.jpg)
 
