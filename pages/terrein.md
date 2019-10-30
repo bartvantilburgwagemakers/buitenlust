@@ -16,18 +16,40 @@ We hebben de volgende treinen
 
 {% include image-gallery.html folder="/assets/img/Velden" %}
 
-- [Douglas](http://www.buitenlust.net/images/fotos/SimpleViewer/Douglas/index.html)
-- [Het Groene Veld](http://www.buitenlust.net/images/fotos/SimpleViewer/het%20Groene%20Veld/index.html)
-- [Kostka](http://www.buitenlust.net/images/fotos/SimpleViewer/Kostka/index.html)
-- [Moermont](http://www.buitenlust.net/images/fotos/SimpleViewer/Moermont/index.html)
-- [Pinsen](http://www.buitenlust.net/images/fotos/SimpleViewer/Pinsen/index.html)
-- [Roovere](http://www.buitenlust.net/images/fotos/SimpleViewer/Roovere/index.html)
+### [Douglas](http://www.buitenlust.net/images/fotos/SimpleViewer/Douglas/index.html)
+  Een mooi stukje bos met Douglas sparren geschikt voor groepen tot 50 personen.
+
+
+### [Het Groene Veld](http://www.buitenlust.net/images/fotos/SimpleViewer/het%20Groene%20Veld/index.html)
+  De naam van dit terrein geeft weer dat dit terrein een groot grasveld is, geschikt voor groepen tot ca. 60 personen. Dit veld is het best toegankelijk voor rolstoelen en kan uitsluitend voor groepen met kinderen met een handicap, indien gewenst, tijdelijk voorzien worden van een elektrische aansluiting.
+
+### [Kostka](http://www.buitenlust.net/images/fotos/SimpleViewer/Kostka/index.html)
+
+## Forten
+Rondom Bergen op Zoom lagen als onderdeel van de Zuidelijke Waterlinie een drietal forten. De onderstaande drie velden zijn naar deze forten vernoemd.
+
+### [Moermont](http://www.buitenlust.net/images/fotos/SimpleViewer/Moermont/index.html)
+Ook dit is een prachtig stuk bus met Douglas sparren maar heeft een meer open karakter en is geschikt voor groepen tot 50 personen.
+
+### [Pinsen](http://www.buitenlust.net/images/fotos/SimpleViewer/Pinsen/index.html)
+Een intiemer veldje met veelal loofbomen. Geschikt voor groepen tot 20 personen.
+
+
+### [Roovere](http://www.buitenlust.net/images/fotos/SimpleViewer/Roovere/index.html)
+Dit veld is vernoemd naar Broeder Kostka die tot in de jaren 70 beheerder was van het voormalig kampeerterrein Boslust ten oosten van de stad.
+Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit veld is geschikt voor groepen tot ca. 40 personen.
+
 
 ![terrein overzicht](../assets/img/overzichtskaart.jpg)
 
-Voorzieningen:
+## Overigen
+Buitenlust beschikt over een kampvuurcirkel omgeven door een ruim grasveld. Deze kan door individuele groepen of voor gezamenlijke vuren gebruikt worden.
+Daarnaast is er het stafveldje waar de kampwacht overnacht.
+Sinds 2019 beschikken wij ook over een milieuhokje waarin gescheiden afval kan worden verzameld.
+In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikking over 1, door de beheerder aangewezen, toilet ter beschikking. Tevens zijn er 2 douches met warm water beschikbaar voor algemeen gebruik. Op de beide kopse kanten zijn er wasplaatsen. Op de voorste zijn er ook 2 tappunten voor water.
 
-- [Kampvuurkuil](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
+
+- [kampvuurcirkel](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
 - [Toiletgebouw](http://www.buitenlust.net/images/fotos/SimpleViewer/Toiletgebouw/index.html)
 - Milieu hok![Milieu hok foto](../assets/img/IMG-20190624-WA0000.jpg)
   
