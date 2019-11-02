@@ -17,3 +17,8 @@
         url: /ActiviteitenInOmgeving
 - text: verhuur
   url: /Verhuur
+  submenu: 
+      - name: Kampregels
+        url: /Verhuur_Kampregels
+      - name: Beschikbaarheid
+        url: /Verhuur
