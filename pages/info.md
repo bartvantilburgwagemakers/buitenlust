@@ -17,7 +17,7 @@ permalink: /info
 
 ## Overnachtingsprijs
 
-Voor 2019 is de prijs per persoon per nacht € 2,00.
+Voor 2020 is de prijs per persoon per nacht € 2,20.
 
 ## Reservering
 
