@@ -48,13 +48,12 @@ Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit vel
 ![terrein overzicht](../assets/img/overzichtskaart.jpg)
 
 ## Overigen
-Buitenlust beschikt over een kampvuurcirkel omgeven door een ruim grasveld. Deze kan door individuele groepen of voor gezamenlijke vuren gebruikt worden.
+Buitenlust beschikt over een kampvuurkuil omgeven door een ruim grasveld. Deze kan door individuele groepen of voor gezamenlijke vuren gebruikt worden.
 Daarnaast is er het stafveldje waar de kampwacht overnacht.
 Sinds 2019 beschikken wij ook over een milieuhokje waarin gescheiden afval kan worden verzameld.
 In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikking over 1, door de beheerder aangewezen, toilet ter beschikking. Tevens zijn er 2 douches met warm water beschikbaar voor algemeen gebruik. Op de beide kopse kanten zijn er wasplaatsen. Op de voorste zijn er ook 2 tappunten voor water.
 
-
-- [kampvuurcirkel](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
+- [kampvuurkuil](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
 - [Toiletgebouw](http://www.buitenlust.net/images/fotos/SimpleViewer/Toiletgebouw/index.html)
 - Milieu hok![Milieu hok foto](../assets/img/IMG-20190624-WA0000.jpg)
   
