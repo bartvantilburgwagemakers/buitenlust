@@ -10,9 +10,8 @@ permalink: /info
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
 - [informatie boekje](#informatie-boekje)
-- [Contact gegevens](#contact-gegevens)
+- [Contact gegevens beheerder](#contact-gegevens-beheerder)
 - [Routebeschrijving](#routebeschrijving)
-  - [Openbaar vervoer](#openbaar-vervoer)
 - [Noodnummer](#noodnummer)
 
 ## Overnachtingsprijs
@@ -31,7 +30,7 @@ Elke groep is verplicht zich te melden bij de beheerder. Deze zal U naar Uw terr
 
 [Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2019.pdf)
 
-## Contact gegevens
+## Contact gegevens beheerder
 
 In het hoogseizoen is de beheerder of de kampstaf op het terrein aanwezig. Indien afwezig zal er bij het kantoor altijd aangegeven staan waar men hen bereiken kan.
 
@@ -42,17 +41,17 @@ Tel.: [06 - 22 40 29 82](tel:0622402982) Email: Ger Radt .
 
 ## Routebeschrijving
 
+Adres:  
+Buitenlust 11,  
+4661 AL Halsteren
+
 Voor de route beschrijving via google maps klink [hier](https://www.google.nl/maps/place/Scouting+Labelterrein+Buitenlust/@51.5150386,4.2963654,15z/data=!4m8!1m2!2m1!1sbuitenlust,+halsteren!3m4!1s0x47c41334ebbdcd15:0xee193dfa9d4103e9!8m2!3d51.5125249!4d4.3058154?hl=nl)
-
-### Openbaar vervoer
-
-Er is een treinverbinding met Bergen op Zoom. Vanaf het station kan men met de stadsbusdienst Lijn 23 tot aan de wijk Meilust komen. Vandaar is het nog maar een paar minuten lopen tot aan Buitenlust.
 
 ## Noodnummer
 
 Bij noodgevallen tijdens het kamperen kunt U naar de beheerder bellen:
  [0031 (0)6 - 22 40 29 82](tel:0031622402982)
 
-Postadres:
+Postadres tijdens uw kamp:
 
-Naam: ..........   Groepsnaam: ..........   P/A: Scoutingterrein Buitenlust, Groeshof 32, 4623 AR Bergen op Zoom.
+Naam: ..........   Groepsnaam: ..........   P/A: Scoutingterrein Buitenlust, buitenlust 11, 4661 AL Halsteren.

@@ -68,8 +68,8 @@ Uit het oogpunt van veiligheid bij het koken dient elke groep te beschikken over
 GLAS, PAPIER , BATTERIJEN en ander CHEMISCH AFVAL dient op de daarvoor bestemde plaats, het milieuhok, gescheiden ingeleverd te worden.
 Restafval kan, alleen in een afgesloten daarvoor bestemde vuilniszak, worden aangeboden. Indien geen container aanwezig moet in overleg met de beheerder het afval bij het milieuhok gedeponeerd worden. In de maanden juli en augustus dient er altijd, voor het restafval, gebruik gemaakt te worden van de container welke aan de weg staat bij het stafveldje.
 Het is verboden tafels, stoelen, banken etc. op het terrein achter te laten of te deponeren bij de aangewezen afvalplaatsen.
-Sanitair en koelkasten:
 
+**Sanitair en koelkasten:**  
 De centrale was-, douche- en toiletgelegenheid dient uitsluitend voor deze doeleinden gebruikt te worden.
 Per groep van ± 25 personen wordt 1 toilet toegewezen. De verantwoordelijk leider/leidster krijgt hiervan, op borgbasis, een sleutel in bruikleen.
 Gedurende de kampperiode zijn de bezoekende groepen ten alle tijden verantwoordelijk voor het ordelijk, net en schoonhouden van de toegewezen toilet, sanitairgebouw en (kampeer)terrein.
