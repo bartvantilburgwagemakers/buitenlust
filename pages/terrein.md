@@ -12,7 +12,7 @@ Buitenlust is eigendom van "Het Brabants Landschap" en is een prachtig natuurgeb
 
 ![tent](/assets/img/tent.gif)
 
-We hebben de volgende treinen
+We hebben de volgende terreinen
 
 {% include image-gallery.html folder="/assets/img/Velden" %}
 
@@ -55,5 +55,5 @@ In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikkin
 
 - [kampvuurkuil](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
 - [Toiletgebouw](http://www.buitenlust.net/images/fotos/SimpleViewer/Toiletgebouw/index.html)
-- Milieu hok![Milieu hok foto](../assets/img/IMG-20190624-WA0000.jpg)
+- [MilieuHok](../assets/img/IMG-20190624-WA0000.jpg)
   
