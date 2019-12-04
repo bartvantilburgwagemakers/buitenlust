@@ -3,6 +3,8 @@ layout: page
 title: Terrein
 section: terrein
 permalink: /terrein
+css: css/lightbox.min.css
+js: js/lightbox-plus-jquery.min.js
 
 ---
 
