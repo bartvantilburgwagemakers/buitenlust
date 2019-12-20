@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Welkom op Scouting Labelterrein buitenlust  
+title: Welkom op Scouting Labelterrein Buitenlust  
 permalink: /
 section: home
 intro_paragraph: >
-  Scouting Labelterrein buitenlust in Bergen op Zoom 
+  Scouting Labelterrein Buitenlust in Bergen op Zoom 
 ---
 
 ![logolabel terienn](../assets/img/Logo_Labelterrein.svg) ![logo buitenlust](../assets/img/badgenwa.svg)  

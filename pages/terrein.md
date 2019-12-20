@@ -43,8 +43,7 @@ Een intiemer veldje met veelal loofbomen. Geschikt voor groepen tot 20 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Pinsen" %}
 
 ### [Roovere](http://www.buitenlust.net/images/fotos/SimpleViewer/Roovere/index.html)
-Dit veld is vernoemd naar Broeder Kostka die tot in de jaren 70 beheerder was van het voormalig kampeerterrein Boslust ten oosten van de stad.
-Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit veld is geschikt voor groepen tot ca. 40 personen.
+Een terreintje bestemd voor passanten of kleinere roverscouts groepen geschikt voor ca. 10 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Roovere" %}
 
 ![terrein overzicht](../assets/img/overzichtskaart.jpg)
@@ -55,7 +54,7 @@ Daarnaast is er het stafveldje waar de kampwacht overnacht.
 Sinds 2019 beschikken wij ook over een milieuhokje waarin gescheiden afval kan worden verzameld.
 In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikking over 1, door de beheerder aangewezen, toilet ter beschikking. Tevens zijn er 2 douches met warm water beschikbaar voor algemeen gebruik. Op de beide kopse kanten zijn er wasplaatsen. Op de voorste zijn er ook 2 tappunten voor water.
 
-- [kampvuurkuil](http://www.buitenlust.net/images/fotos/SimpleViewer/Kampvuur%20kuil/index.html)
-- [Toiletgebouw](http://www.buitenlust.net/images/fotos/SimpleViewer/Toiletgebouw/index.html)
+- Kampvuurkuil
+- [Toiletgebouw](../assets/img/Velden/image00013.jpeg)
 - [MilieuHok](../assets/img/IMG-20190624-WA0000.jpg)
   
