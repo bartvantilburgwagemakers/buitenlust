@@ -54,7 +54,7 @@ Daarnaast is er het stafveldje waar de kampwacht overnacht.
 Sinds 2019 beschikken wij ook over een milieuhokje waarin gescheiden afval kan worden verzameld.
 In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikking over 1, door de beheerder aangewezen, toilet ter beschikking. Tevens zijn er 2 douches met warm water beschikbaar voor algemeen gebruik. Op de beide kopse kanten zijn er wasplaatsen. Op de voorste zijn er ook 2 tappunten voor water.
 
-- Kampvuurkuil
+- [Kampvuurkuil](../assets/img/kampvuurkuil.jpg)
 - [Toiletgebouw](../assets/img/Velden/image00013.jpeg)
 - [MilieuHok](../assets/img/IMG-20190624-WA0000.jpg)
   

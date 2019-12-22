@@ -172,6 +172,8 @@ Binnen het landgoed Buitenlust en de gemeentebossen van Bergen op Zoom is navolg
 
 ## Ontruimingsplan
 
+[Hier kunt u het ontruimingsplan dowloaden](../assets/Ontruimingsplan&#32;Buitenlust.pdf)
+
 Op het onderstaand kaartje kun je de vluchtroutes zien.
 
 ![het ontruimingplan](../assets/img/ontruimingsroute-2.jpg)
