@@ -35,7 +35,7 @@ Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit vel
 Rondom Bergen op Zoom lagen als onderdeel van de Zuidelijke Waterlinie een drietal forten. De onderstaande drie velden zijn naar deze forten vernoemd.
 
 ### [Moermont](http://www.buitenlust.net/images/fotos/SimpleViewer/Moermont/index.html)
-Ook dit is een prachtig stuk bus met Douglas sparren maar heeft een meer open karakter en is geschikt voor groepen tot 50 personen.
+Ook dit is een prachtig stuk bos met Douglas sparren maar heeft een meer open karakter en is geschikt voor groepen tot 50 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Moermont" %}
 
 ### [Pinsen](http://www.buitenlust.net/images/fotos/SimpleViewer/Pinsen/index.html)
