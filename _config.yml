@@ -13,8 +13,8 @@ description: Site over het label terrein
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-# url: "https://labeltereinbuitenlust.netlify.com"
-url: "https://www.buitenlust.net"
+url: "https://labeltereinbuitenlust.netlify.com"
+# url: "https://www.buitenlust.net"
 
 # baseurl should be an empty string
 baseurl: ""
