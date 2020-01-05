@@ -1,13 +1,13 @@
 - title: Natuurcentrum de Kraaijenberg
   adres: Fianestraat 21, 4617 RA  Bergen op Zoom  
   tel: 0164-235210
-  url: http://www.brabantslandschap.nl/ontdek-de-natuur/infocentra/bezoekerscentrum-de-kraaijenberg/
+  url: https://www.brabantslandschap.nl/ontdek-de-natuur/infocentra/bezoekerscentrum-de-kraaijenberg/
   category: Natuur
   img: /../assets/img/bezoekerscentrum-de-Kraaijenberg_26096.jpg
 - title: Natuurpodium Brabantse Wal
   adres: Boslustweg 1, 4624 RB  Bergen op Zoom
   tel: 0164-256387
-  url: http://natuurpodium.nl/
+  url: https://natuurpodium.nl/
   category: Natuur
   img: /../assets/img/natuurpodium.jpg
 - title: Fort de Roovere
@@ -35,19 +35,19 @@
   adres: Langstraat 5, 4661 SE  Bergen op Zoom
   tel:  0164-851888
   category: Speeltuinen
-  url: http://www.monkeytown.eu/bergenopzoom
+  url: https://www.monkeytown.eu/bergenopzoom
   img: /../assets/img/Monkey Town.png
 - title: Klimbos de Brabantse Wal
   category: Outdoor
   adres: Boslustweg 1, 4624 RB  Bergen op Zoom
   tel: 088-5545536
-  url: http://klimbos.nl/klimbos-brabantse-wal/
+  url: https://klimbos.nl/klimbos-brabantse-wal/
   img: /../assets/img/Klimbos.png
 - title:  Ego Indoorski / klimwand
   category: Outdoor
   adres:  Oude Wouwsebaan 14, 4621 JE  Bergen op Zoom
   tel: 0164-211495
-  url: http://egoindoorski.nl/
+  url: https://egoindoorski.nl/
   img: /../assets/img/Ego.jpg
 - title: Akkermans Leisure & Golf
   category: Outdoor
@@ -58,12 +58,12 @@
 - title: Bowling Bergen op Zoom
   adres: Markiezaatsweg 25, 4615 PA  Bergen op Zoom
   tel: 0164-657572
-  url: http://www.bowlingbergenopzoom.nl/index.html
+  url: https://www.bowlingbergenopzoom.nl/index.html
   img: /../assets/img/LogoBowlingBergen op Zoom.png
 - title: VVV de Brabantse Wal
   adres: Steenbergsestraat 6, 4611 TE Bergen op Zoom
   tel: 0164-277482
-  url: http://www.vvvbrabantsewal.nl/
+  url: https://www.vvvbrabantsewal.nl/
   img: /../assets/img/VVV_Logo.svg
 - title: Uitagenda Bergen op Zoom
   url: http://www.berregsbulleke.nl/uitagenda/

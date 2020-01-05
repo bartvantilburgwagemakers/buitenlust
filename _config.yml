@@ -14,7 +14,7 @@ description: Site over het label terrein
 
 # url is the the website domain URL without a trailing slash
 # url: "https://labeltereinbuitenlust.netlify.com"
-url: "http://www.buitenlust.net"
+url: "https://www.buitenlust.net"
 
 # baseurl should be an empty string
 baseurl: ""
