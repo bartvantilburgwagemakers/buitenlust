@@ -78,7 +78,7 @@ wettelijke opslagrente en overige administratiekosten berekend.
 
 **Kampeerterreinen:**  
 Kamperen is alleen toegestaan op de daarvoor aangewezen kampeerterreinen.
-Voor groepen zijn de volgende terreinen beschikbaar [(zie terein):](/terrein)
+Voor groepen zijn de volgende terreinen beschikbaar [(zie terein):](/terrein)  
     a. het Groene Veld  
     b. Douglas  
     c. Roovere  
@@ -121,7 +121,7 @@ pas na instemming van de beheerder plaatsvinden .
 Alle overige vormen van (open) vuur zijn ten strengste verboden. Onder
 vuren worden alle vormen van open vuur verstaan.
 Bij code 2 mag er niet gestookt worden, zie website
-[www.natuurbrandrisico.nl](www.natuurbrandrisico.nl)
+[www.natuurbrandrisico.nl](https://www.natuurbrandrisico.nl/)
 Het houden van een BBQ mag alleen met kant en klare houtskool en altijd na
 insteming van de beheerder .
 Tijdens het kamp- of stookvuur dienen blusmiddelen, waaronder een
