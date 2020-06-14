@@ -9,6 +9,12 @@ intro_paragraph: >
   dorpje Halsteren.
 ---
 
+>Het bestuur van Labelterrein Buitenlust heeft helaas het besluit moeten nemen deze zomer NIET open te gaan voor groepskampen of dagrecreatie. Hoezeer het ook aan ons hart gaat zien wij echt geen kans aan de eisen te voldoen die middels het Corona protocol aan ons gesteld worden.
+>Wij hopen dat er volgend seizoen weer volop op Buitenlust gekampeerd kan worden.
+>Wij wensen iedereen alsnog een fijne en vooral gezonde zomer toe.
+<style>
+blockquote { color:red;}
+</style>
 
 In het bijna 14 hectare bosgebied liggen meerdere kampeervelden tussen de bomen.
 Het terrein is van Scouting Labelterrein Buitenlust en vormt een broedplaats
