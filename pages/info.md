@@ -10,7 +10,7 @@ permalink: /info
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
 - [informatie boekje](#informatie-boekje)
-- [Vooraf inte vullen](#vooraf-inte-vullen)
+- [Vooraf in te vullen](#vooraf-in-te-vullen)
 - [Contact gegevens beheerder](#contact-gegevens-beheerder)
 - [Routebeschrijving](#routebeschrijving)
 - [Noodnummer](#noodnummer)
@@ -31,9 +31,9 @@ Elke groep is verplicht zich te melden bij de beheerder. Deze zal u naar uw terr
 
 [Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2019.pdf)
 
-## Vooraf inte vullen 
+## Vooraf in te vullen 
 
-Ook willen wij uw vragen deze lijst vooraf in te vullen en op te sturen.
+Ook willen wij uw vragen deze lijst vooraf in te vullen en op te sturen.  
 [Aanwezigheidslijst](../assets/Aanwezigheidslijst%20calamiteiten.docx)
 
 ## Contact gegevens beheerder
