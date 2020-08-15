@@ -9,7 +9,9 @@ permalink: /info
 - [Overnachtingsprijs](#overnachtingsprijs)
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
-- [informatie boekje](#informatie-boekje)
+- [Informatie boekje](#informatie-boekje)
+- [Gedragscode](#gedragscode)
+- [Huishoudelijk reglement Scouting Nederland](#huishoudelijk-reglement-scouting-nederland)
 - [Vooraf in te vullen](#vooraf-in-te-vullen)
 - [Contact gegevens beheerder](#contact-gegevens-beheerder)
 - [Routebeschrijving](#routebeschrijving)
@@ -27,9 +29,19 @@ Reservering kan UITSLUITEND d.m.v. het [reserveringsformulier.](/aanvraag) Deze 
 
 Elke groep is verplicht zich te melden bij de beheerder. Deze zal u naar uw terrein brengen. Laden en lossen moet gebeuren vanaf de openbare weg. Na het lossen moet de auto geparkeerd worden op het (parkeer)terrein. Voor vertrek dient elke groep zich te melden bij de beheerder en hun toegewezen kampeerterrein te laten controleren.
 
-## informatie boekje
+## Informatie boekje
 
 [Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2019.pdf)
+
+## Gedragscode
+
+Informatie over onze Gedragscode, Aannamebeleid, Persoonlijke calamiteiten en Vertrouwenspersoon kun u vinden in het bestand 
+[Gedragscode buitenlust](../assets/Gedragscode%20Buitenlust.pdf)
+
+## Huishoudelijk reglement Scouting Nederland
+
+Wij hanteren het huishoudelijk van scouting nederland. 
+Deze is te vinden op [https://www.scouting.nl/ondersteuning/juridische-zaken/huishoudelijk-reglement](https://www.scouting.nl/ondersteuning/juridische-zaken/huishoudelijk-reglement)
 
 ## Vooraf in te vullen 
 
