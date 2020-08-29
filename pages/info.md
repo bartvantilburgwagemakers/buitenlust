@@ -16,6 +16,7 @@ permalink: /info
 - [Contact gegevens beheerder](#contact-gegevens-beheerder)
 - [Routebeschrijving](#routebeschrijving)
 - [Noodnummer](#noodnummer)
+- [Informatie coronamaatregelen](#informatie-coronamaatregelen)
 
 ## Overnachtingsprijs
 
@@ -73,3 +74,13 @@ Bij noodgevallen tijdens het kamperen kunt u de beheerder bellen:
 Postadres tijdens uw kamp:
 
 Naam: ..........   Groepsnaam: .......... Terrein:.........  P/A: Scouting Labelterrein Buitenlust, Buitenlust 11, 4661 AL Halsteren.
+
+
+## Informatie coronamaatregelen
+
+Voor de verhuur van ons scoutingterrein volgen we de richtlijnen van Scouting Nederland en die van de gemeente Bergen op Zoom. Hiervoor zijn o.a. vanuit de gezamenlijke aanbieders van zomer- en kinderkampen protocollen opgesteld die je [hier kunt vinden.](https://www.wegaanopzomerkamp.nl) Deze protocollen zijn leidend inzake onze eigen regels en richtlijnen en omtrent onze verhuur. We stellen het volgen van deze protocollen dan ook als randvoorwaarde voor de hurende groepen op ons terrein.
+
+De precieze invulling van de protocollen in het kader van de verhuur blijft een basis van voortschrijdend inzicht en zal daar waar nodig worden gecommuniceerd. Er zal altijd rekening mee gehouden worden dat richtlijnen en protocollen in de loop van de verhuurperiode kunnen wijzigen en dat ook vanuit voortschrijdend inzicht tijdens de verhuurperiode we aanpassingen moeten doen aan de eigen verhuur regels.
+
+Aan het begin van elke verhuurperiode zal dan ook expliciet de laatste stand van zaken van de verhuur aan de huurders worden gecommuniceerd. Wij gaan er van uit dat we in onderlinge samenwerking voor iedereen weer geweldige weekend- en zomerkampen mogelijk kunnen maken. 
+Wij kijken uit naar de komende kampeerperiode op ons terrein met jullie als gast!
