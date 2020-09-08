@@ -13,9 +13,9 @@ permalink: /info
 - [Privacybeleid](#privacybeleid)
 - [Gedragscode](#gedragscode)
 - [Huishoudelijk reglement Scouting Nederland](#huishoudelijk-reglement-scouting-nederland)
-- [Vooraf in te vullen](#vooraf-in-te-vullen)
+- [Aanwezigheids lijst](#aanwezigheids-lijst)
 - [Contact gegevens beheerder](#contact-gegevens-beheerder)
-- [Routebeschrijving](#routebeschrijving)
+- [Adres](#adres)
 - [Noodnummer](#noodnummer)
 - [Informatie coronamaatregelen](#informatie-coronamaatregelen)
 
@@ -25,7 +25,7 @@ Voor 2020 is de prijs per persoon per nacht € 2,20.
 
 ## Reservering
 
-Reservering kan UITSLUITEND d.m.v. het [reserveringsformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
+Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
 
 ## Aankomst en vertrek
 
@@ -49,7 +49,7 @@ Informatie over onze Gedragscode, Aannamebeleid, Persoonlijke calamiteiten en Ve
 Wij hanteren het huishoudelijk reglement van scouting nederland. 
 Deze is te vinden op [https://www.scouting.nl/ondersteuning/juridische-zaken/huishoudelijk-reglement](https://www.scouting.nl/ondersteuning/juridische-zaken/huishoudelijk-reglement)
 
-## Vooraf in te vullen 
+## Aanwezigheids lijst
 
 Ook willen wij uw vragen deze lijst vooraf in te vullen en op te sturen.  
 [Aanwezigheidslijst](../assets/Aanwezigheidslijst%20calamiteiten.docx)
@@ -63,7 +63,7 @@ Het terrein is NIET telefonisch bereikbaar.
 Beheerder Dhr. Ger Radt, Groeshof 32, 4623 AR Bergen op Zoom  
 Tel.: [06 - 22 40 29 82](tel:0622402982) Email: beheerder.buitenlust@gmail.com
 
-## Routebeschrijving
+## Adres
 
 Scouting Labelterrein Buitenlust  
 Buitenlust 11  
