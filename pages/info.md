@@ -10,6 +10,7 @@ permalink: /info
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
 - [Informatie boekje](#informatie-boekje)
+- [Privacybeleid](#privacybeleid)
 - [Gedragscode](#gedragscode)
 - [Huishoudelijk reglement Scouting Nederland](#huishoudelijk-reglement-scouting-nederland)
 - [Vooraf in te vullen](#vooraf-in-te-vullen)
@@ -33,6 +34,10 @@ Elke groep is verplicht zich te melden bij de beheerder. Deze zal u naar uw terr
 ## Informatie boekje
 
 [Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2019.pdf)
+
+## Privacybeleid 
+
+[Onze Privacybeleid kun u hier downloaden](../assets/Privacybeleid.pdf)
 
 ## Gedragscode
 
