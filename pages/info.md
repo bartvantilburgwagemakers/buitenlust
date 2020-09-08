@@ -10,11 +10,12 @@ permalink: /info
 - [Reservering](#reservering)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
 - [Informatie boekje](#informatie-boekje)
+- [Privacybeleid](#privacybeleid)
 - [Gedragscode](#gedragscode)
 - [Huishoudelijk reglement Scouting Nederland](#huishoudelijk-reglement-scouting-nederland)
-- [Vooraf in te vullen](#vooraf-in-te-vullen)
+- [Aanwezigheids lijst](#aanwezigheids-lijst)
 - [Contact gegevens beheerder](#contact-gegevens-beheerder)
-- [Routebeschrijving](#routebeschrijving)
+- [Adres](#adres)
 - [Noodnummer](#noodnummer)
 - [Informatie coronamaatregelen](#informatie-coronamaatregelen)
 
@@ -24,7 +25,7 @@ Voor 2020 is de prijs per persoon per nacht € 2,20.
 
 ## Reservering
 
-Reservering kan UITSLUITEND d.m.v. het [reserveringsformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
+Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
 
 ## Aankomst en vertrek
 
@@ -34,6 +35,10 @@ Elke groep is verplicht zich te melden bij de beheerder. Deze zal u naar uw terr
 
 [Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2019.pdf)
 
+## Privacybeleid 
+
+[Onze Privacybeleid kun u hier downloaden](../assets/Privacybeleid.pdf)
+
 ## Gedragscode
 
 Informatie over onze Gedragscode, Aannamebeleid, Persoonlijke calamiteiten en Vertrouwenspersoon kun u vinden in het bestand 
@@ -41,10 +46,10 @@ Informatie over onze Gedragscode, Aannamebeleid, Persoonlijke calamiteiten en Ve
 
 ## Huishoudelijk reglement Scouting Nederland
 
-Wij hanteren het huishoudelijk van scouting nederland. 
+Wij hanteren het huishoudelijk reglement van scouting nederland. 
 Deze is te vinden op [https://www.scouting.nl/ondersteuning/juridische-zaken/huishoudelijk-reglement](https://www.scouting.nl/ondersteuning/juridische-zaken/huishoudelijk-reglement)
 
-## Vooraf in te vullen 
+## Aanwezigheids lijst
 
 Ook willen wij uw vragen deze lijst vooraf in te vullen en op te sturen.  
 [Aanwezigheidslijst](../assets/Aanwezigheidslijst%20calamiteiten.docx)
@@ -58,7 +63,7 @@ Het terrein is NIET telefonisch bereikbaar.
 Beheerder Dhr. Ger Radt, Groeshof 32, 4623 AR Bergen op Zoom  
 Tel.: [06 - 22 40 29 82](tel:0622402982) Email: beheerder.buitenlust@gmail.com
 
-## Routebeschrijving
+## Adres
 
 Scouting Labelterrein Buitenlust  
 Buitenlust 11  
@@ -78,7 +83,7 @@ Naam: ..........   Groepsnaam: .......... Terrein:.........  P/A: Scouting Label
 
 ## Informatie coronamaatregelen
 
-Voor de verhuur van ons scoutingterrein volgen we de richtlijnen van Scouting Nederland en die van de gemeente Bergen op Zoom. Hiervoor zijn o.a. vanuit de gezamenlijke aanbieders van zomer- en kinderkampen protocollen opgesteld die je [hier kunt vinden.](https://www.wegaanopzomerkamp.nl) Deze protocollen zijn leidend inzake onze eigen regels en richtlijnen en omtrent onze verhuur. We stellen het volgen van deze protocollen dan ook als randvoorwaarde voor de hurende groepen op ons terrein.
+Voor de verhuur van ons scoutingterrein volgen we de richtlijnen van Scouting Nederland en die van de gemeente Bergen op Zoom. Hiervoor zijn o.a. vanuit de gezamenlijke aanbieders van zomer- en kinderkampen protocollen opgesteld die je [hier kunt vinden.](https://www.wegaanopzomerkamp.nl){:target="_blank"} Deze protocollen zijn leidend inzake onze eigen regels en richtlijnen en omtrent onze verhuur. We stellen het volgen van deze protocollen dan ook als randvoorwaarde voor de hurende groepen op ons terrein.
 
 De precieze invulling van de protocollen in het kader van de verhuur blijft een basis van voortschrijdend inzicht en zal daar waar nodig worden gecommuniceerd. Er zal altijd rekening mee gehouden worden dat richtlijnen en protocollen in de loop van de verhuurperiode kunnen wijzigen en dat ook vanuit voortschrijdend inzicht tijdens de verhuurperiode we aanpassingen moeten doen aan de eigen verhuur regels.
 

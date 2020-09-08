@@ -12,7 +12,7 @@ Afgelopen 25 juni hebben wij afscheid genomen van Bert Vriens lid van Labelterre
 
 Bert was ouwbaas bij de ScheldeStam, lid van Stichting Scouting Labelterrein Buitenlust,
 klusser bij clubhuis Däneborg en klusser bij Stichting Clubhuis Padvinstersgilde.
-Altijd konde wij op hem rekenen en bouwen.
+Altijd konden wij op hem rekenen en bouwen.
 Hij heeft altijd een volle inzet laten zien, wat hem een koninklijke onderscheiding opleverde.
 
 ![bert2](../assets/img/bert2jpg.jpg)
