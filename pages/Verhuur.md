@@ -25,7 +25,7 @@ Voor 2020 is de prijs per persoon per nacht € 2,20.
 
 Bij het definitief bevestigen van uw boeking vragen wij om een borgsom.
 Deze borgsom wordt na afloop van het kamp na ongeveer 2 weken, onder voorbehoud van eventuele schades, op uw rekening teruggestort.
-De kosten van de borgsom zijn € 75,00 . U kunt deze borgsom overmaken op ING nummer: NL78INGB0000820497 t.n.v. Stichting Scouting Labelterrein Buitenlust, o.v.v. uw groepsnaam + kampeerperiode.
+Het bedrag van de borgsom is € 75,00 . U kunt deze borgsom overmaken op ING nummer: NL78INGB0000820497 t.n.v. Stichting Scouting Labelterrein Buitenlust, o.v.v. uw groepsnaam + kampeerperiode.
 
 ## Overzicht beschikbare terreinen
 
@@ -36,7 +36,7 @@ Er kunnen geen rechten geclaimd worden omtrent dit overzicht.
 
 ## Aankomst en vertrek
 
-Elke groep is verplicht zich te melden bij de beheerder. Deze zal u naar uw terrein brengen. Laden en lossen moet gebeuren vanaf de openbare weg. Na het lossen moet de auto geparkeerd worden op het (parkeer)terrein. Voor vertrek dient elke groep zich te melden bij de beheerder en hun toegewezen kampeerterrein te laten controleren.
+Elke groep is verplicht zich eerst te melden bij de beheerder. Deze zal u naar uw terrein brengen. Laden en lossen moet gebeuren vanaf de openbare weg. Na het lossen moet de auto geparkeerd worden op het (parkeer)terrein. Voor vertrek dient elke groep zich eerst te melden bij de beheerder en hun toegewezen kampeerterrein te laten controleren.
  
 ## Aanwezigheids lijst
 
