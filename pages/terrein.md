@@ -23,7 +23,7 @@ We hebben de volgende kampeerterreinen.
 {% include image-gallery.html folder="/assets/img/Velden/Douglas" %}
 
 ### Het Groene Veld
-  De naam van dit terrein geeft weer dat dit terrein een groot grasveld is, geschikt voor groepen tot ca. 60 personen. Dit veld is redelijk toegankelijk voor rolstoelen en kan uitsluitend voor groepen, met kinderen met een handicap, indien gewenst tijdelijk voorzien worden van een elektrisiteit.
+  De naam van dit terrein geeft weer dat dit terrein een groot grasveld is, geschikt voor groepen tot ca. 60 personen. Dit veld is redelijk toegankelijk voor rolstoelen en kan uitsluitend voor groepen, met kinderen met een handicap, indien gewenst tijdelijk voorzien worden van een elektriciteit.
   {% include image-gallery.html folder="/assets/img/Velden/HetGroeneVeld" %}
 
 ### Kostka
