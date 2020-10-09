@@ -28,7 +28,7 @@ Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan,
 
 ## Overnachtingsprijs
 
-Voor 2020 is de prijs per persoon per nacht € 2,20.
+Voor 2021 is de prijs per persoon per nacht € 2,20.
 
 ## Borgsom
 
