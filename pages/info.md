@@ -31,7 +31,7 @@ Wij kijken uit naar de komende kampeerperiode op ons terrein met jullie als gast
 
 ## Privacybeleid 
 
-[Onze Privacybeleid kun u hier downloaden](../assets/Privacybeleid.pdf)
+[Onze Privacybeleid kun u hier downloaden](../assets/PrivacybeleidV5.pdf)
 
 ## Gedragscode
 
