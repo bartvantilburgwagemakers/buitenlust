@@ -28,7 +28,8 @@ Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan,
 
 ## Overnachtingsprijs
 
-Voor 2021 is de prijs per persoon per nacht € 2,20.
+De overnachtingprijs bedraagt € 2,20 ( 2021 ) / € 2,50 ( 2022 ) per persoon per 
+nacht. Dit is inclusief toeslagen.
 
 ## Borgsom
 
