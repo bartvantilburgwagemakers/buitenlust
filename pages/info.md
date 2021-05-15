@@ -28,7 +28,7 @@ Wij kijken uit naar de komende kampeerperiode op ons terrein met jullie als gast
 ## Informatie boekje
 
 [Download hier pdf infoboekje 2020 ](../assets/Infoboekje buitenlust 2020.pdf)  
-[Download hier pdf infoboekje 2022 ](../assets/Infoboekje buitenlust 2021.pdf)
+[Download hier pdf infoboekje 2021 ](../assets/Infoboekje buitenlust 2021.pdf)
 
 ## Privacybeleid 
 
