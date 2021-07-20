@@ -27,11 +27,12 @@ Wij kijken uit naar de komende kampeerperiode op ons terrein met jullie als gast
 
 ## Informatie boekje
 
-[Download hier pdf infoboekje ](../assets/Infoboekje buitenlust 2020.pdf)
+[Download hier pdf infoboekje 2020 ](../assets/Infoboekje buitenlust 2020.pdf)  
+[Download hier pdf infoboekje 2021 ](../assets/Infoboekje buitenlust 2021.pdf)
 
 ## Privacybeleid 
 
-[Onze Privacybeleid kun u hier downloaden](../assets/Privacybeleid.pdf)
+[Onze Privacybeleid kun u hier downloaden](../assets/PrivacybeleidV5.pdf)
 
 ## Gedragscode
 
@@ -49,7 +50,7 @@ In het hoogseizoen is de beheerder of de kampstaf op het terrein aanwezig. Indie
 
 Het terrein is NIET telefonisch bereikbaar.  
 
-Beheerder Dhr. Ger Radt, Groeshof 32, 4623 AR Bergen op Zoom  
+Beheerder Dhr. Ger Radt,
 Tel.: [06 - 22 40 29 82](tel:0622402982) Email: beheerder.buitenlust@gmail.com
 
 ## Adres
