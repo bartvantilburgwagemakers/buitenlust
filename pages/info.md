@@ -50,7 +50,7 @@ In het hoogseizoen is de beheerder of de kampstaf op het terrein aanwezig. Indie
 
 Het terrein is NIET telefonisch bereikbaar.  
 
-Beheerder Dhr. Ger Radt, Groeshof 32, 4623 AR Bergen op Zoom  
+Beheerder Dhr. Ger Radt,
 Tel.: [06 - 22 40 29 82](tel:0622402982) Email: beheerder.buitenlust@gmail.com
 
 ## Adres

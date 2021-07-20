@@ -23,7 +23,9 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  info : "/info"
+  info : 
+  - info: "/info"
+  - informatie-boekje : "/info#informatie-boekje"
   Terrein : "/terrein"
   Omgeving:
   - Omgeving : "/omgeving"
