@@ -15,11 +15,11 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 
 ## Reservering
 
->Beste Scouts en kampeerders,
->Zolang de coronaregels van toepassing zijn wordt ons Scouting kampeerterrein Buitenlust in
->aangepaste vorm aangeboden. Wij nemen alleen boekingen aan van 1 april tot 30 oktober 2021. Dit is in bubbel vorm van minimaal 20 personen per bubbel in de zomer maanden met max 2 bubbels per week en in de weekenden ook max 2 bubbels maar dan zonder minimaal aantal.
-
-
+>Als gevolg van corona maatregelen waren wij in 2020 geheel gesloten en in 2021 slechts gedeeltelijk geopend. Naar het er nu naar uitziet zullen wij in het seizoen 2022 weer geheel geopend zijn en zullen er dus 5 velden beschikbaar voor de kampen zijn.  
+Het is natuurlijk mogelijk dat de corona maatregelen weer strenger worden. In dat geval zullen wij genoodzaakt zijn ons hierop aan te passen:  
+Wanneer wij weer terug moeten naar 2 bubbels gelijktijdig op ons terrein dan zal er middels loting bepaald worden wie er bij ons kamperen kan. De afvallers krijgen uiteraard direct hun borgsom teruggestort.   
+Indien wij moeten besluiten dat wij niet aan de maatregelen kunnen voldoen dan zijn wij genoodzaakt ons hele terrein te sluiten voor kamperen. In dat geval zal iedereen de borgsom teruggestort krijgen.   
+Wij verwachten en hopen uiteraard dat wij geheel open zullen zijn. In het geval van loting zullen wij iedereen bericht geven hoe en op welke wijze deze plaats zal vinden.
 <style>
 blockquote { color:red;}
 </style>
