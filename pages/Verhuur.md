@@ -8,6 +8,7 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 
 - [Reservering](#reservering)
 - [Overnachtingsprijs](#overnachtingsprijs)
+- [Andere prijzen](#andere-prijzen)
 - [Borgsom](#borgsom)
 - [Overzicht beschikbare terreinen](#overzicht-beschikbare-terreinen)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
@@ -28,8 +29,11 @@ Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan,
 
 ## Overnachtingsprijs
 
-De overnachtingprijs bedraagt € 2,20 ( 2021 ) / € 2,50 ( 2022 ) per persoon per 
-nacht. Dit is inclusief toeslagen.
+De overnachtingprijs voor 2022 bedraagt € 2,50 per persoon per nacht.
+
+## Andere prijzen   
+
+Koelkast is €5 voor weekend en €15 voor en week.  Douchemuntjes zijn €0,60 per muntje.  Brandblusser €5,00 per week of deel daar van.
 
 ## Borgsom
 
