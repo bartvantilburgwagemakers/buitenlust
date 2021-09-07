@@ -25,6 +25,7 @@ baseurl: ""
 navbar-links:
   info : 
   - info: "/info"
+  - Corona info : "/info#informatie-coronamaatregelen"
   - informatie-boekje : "/info#informatie-boekje"
   Terrein : "/terrein"
   Omgeving:
