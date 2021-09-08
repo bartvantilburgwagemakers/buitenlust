@@ -39,7 +39,7 @@ Koelkast is €5 voor weekend en €15 voor en week.  Douchemuntjes zijn €0,60
 
 Bij het definitief bevestigen van uw boeking vragen wij om een borgsom.
 Deze borgsom wordt na afloop van het kamp na ongeveer 2 weken, onder voorbehoud van eventuele schades, op uw rekening teruggestort.
-Het bedrag van de borgsom is € 75,00 . U kunt deze borgsom overmaken op ING nummer: NL78INGB0000820497 t.n.v. Stichting Scouting Labelterrein Buitenlust, o.v.v. uw groepsnaam + kampeerperiode.
+Het bedrag van de borgsom is € 100,00 . U kunt deze borgsom overmaken op ING nummer: NL78INGB0000820497 t.n.v. Stichting Scouting Labelterrein Buitenlust, o.v.v. uw groepsnaam + kampeerperiode.
 
 ## Overzicht beschikbare terreinen
 
