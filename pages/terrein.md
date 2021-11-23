@@ -31,9 +31,6 @@ Dit veld is vernoemd naar Broeder Kostka die tot in de jaren 70 beheerder was va
 Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit veld is geschikt voor groepen tot ca. 40 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Kostka" %}
 
-## Forten
-Rondom Bergen op Zoom lagen als onderdeel van de Zuidelijke Waterlinie een drietal forten. De onderstaande drie velden zijn naar deze forten vernoemd.
-
 ### Moermont
 Ook dit is een prachtig stuk bos met Douglas sparren maar heeft een meer open karakter en is geschikt voor groepen tot 60 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Moermont" %}
