@@ -37,7 +37,6 @@ Wij kijken uit naar de komende kampeerperiode op ons terrein met jullie als gast
 
 ## Informatie boekje
 
-[Download hier pdf infoboekje 2021 ](../assets/Infoboekje buitenlust 2021.pdf)  
 [Download hier pdf infoboekje 2022 ](../assets/Infoboekje buitenlust 2022.pdf)
 
 ## Privacybeleid 
@@ -69,7 +68,7 @@ Scouting Labelterrein Buitenlust
 Buitenlust 11  
 4661 AL Halsteren
 
-Voor de route beschrijving via google maps klink [hier](https://www.google.nl/maps/place/Scouting+Labelterrein+Buitenlust/@51.5150386,4.2963654,15z/data=!4m8!1m2!2m1!1sbuitenlust,+halsteren!3m4!1s0x47c41334ebbdcd15:0xee193dfa9d4103e9!8m2!3d51.5125249!4d4.3058154?hl=nl)
+Voor de route beschrijving via google maps klik [hier](https://www.google.nl/maps/place/Scouting+Labelterrein+Buitenlust/@51.5150386,4.2963654,15z/data=!4m8!1m2!2m1!1sbuitenlust,+halsteren!3m4!1s0x47c41334ebbdcd15:0xee193dfa9d4103e9!8m2!3d51.5125249!4d4.3058154?hl=nl)
 
 ## Noodnummer
 
