@@ -6,7 +6,6 @@ permalink: /info
 
 ---
 
-- [Informatie coronamaatregelen](#informatie-coronamaatregelen)
 - [Informatie boekje](#informatie-boekje)
 - [Privacybeleid](#privacybeleid)
 - [Gedragscode](#gedragscode)
@@ -15,25 +14,6 @@ permalink: /info
 - [Adres](#adres)
 - [Noodnummer](#noodnummer)
 
-
-## Informatie coronamaatregelen
-
-  
->Als gevolg van corona maatregelen waren wij in 2020 geheel gesloten en in 2021 slechts gedeeltelijk geopend. Naar het er nu naar uitziet zullen wij in het seizoen 2022 weer geheel geopend zijn en zullen er dus 5 velden beschikbaar voor de kampen zijn.  
-Het is natuurlijk mogelijk dat de corona maatregelen weer strenger worden. In dat geval zullen wij genoodzaakt zijn ons hierop aan te passen:  
-Wanneer wij weer terug moeten naar 2 bubbels gelijktijdig op ons terrein dan zal er middels loting bepaald worden wie er bij ons kamperen kan. De afvallers krijgen uiteraard direct hun borgsom teruggestort.   
-Indien wij moeten besluiten dat wij niet aan de maatregelen kunnen voldoen dan zijn wij genoodzaakt ons hele terrein te sluiten voor kamperen. In dat geval zal iedereen de borgsom teruggestort krijgen.   
-Wij verwachten en hopen uiteraard dat wij geheel open zullen zijn. In het geval van loting zullen wij iedereen bericht geven hoe en op welke wijze deze plaats zal vinden.
-<style>
-blockquote { color:red;}
-</style>
-
-Voor de verhuur van ons scoutingterrein volgen we de richtlijnen van Scouting Nederland en die van de gemeente Bergen op Zoom. Hiervoor zijn o.a. vanuit de gezamenlijke aanbieders van zomer- en kinderkampen protocollen opgesteld die je [hier kunt vinden.](https://www.wegaanopzomerkamp.nl){:target="_blank"} Deze protocollen zijn leidend inzake onze eigen regels en richtlijnen en omtrent onze verhuur. We stellen het volgen van deze protocollen dan ook als randvoorwaarde voor de hurende groepen op ons terrein.
-
-De precieze invulling van de protocollen in het kader van de verhuur blijft een basis van voortschrijdend inzicht en zal daar waar nodig worden gecommuniceerd. Er zal altijd rekening mee gehouden worden dat richtlijnen en protocollen in de loop van de verhuurperiode kunnen wijzigen en dat ook vanuit voortschrijdend inzicht tijdens de verhuurperiode we aanpassingen moeten doen aan de eigen verhuur regels.
-
-Aan het begin van elke verhuurperiode zal dan ook expliciet de laatste stand van zaken van de verhuur aan de huurders worden gecommuniceerd. Wij gaan er van uit dat we in onderlinge samenwerking voor iedereen weer geweldige weekend- en zomerkampen mogelijk kunnen maken. 
-Wij kijken uit naar de komende kampeerperiode op ons terrein met jullie als gast!
 
 ## Informatie boekje
 
