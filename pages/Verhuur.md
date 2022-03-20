@@ -16,6 +16,10 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 
 ## Reservering
 
+> **Van 2 April tot en met 17 April zijn we gesloten wegens werkzaamheden.**
+<style>
+blockquote { color:red;}
+</style>
 Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
 
 ## Overnachtingsprijs
