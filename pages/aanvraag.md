@@ -14,7 +14,6 @@ permalink: /aanvraag
 {% include VerhuurCalendar.html %}
 ## Aanvraag 
 
-> **Van 2 April tot en met 17 April zijn we gesloten wegens werkzaamheden.**
 <style>
 blockquote { color:red;}
 </style>

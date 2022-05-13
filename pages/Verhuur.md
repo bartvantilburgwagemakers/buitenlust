@@ -16,7 +16,6 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 
 ## Reservering
 
-> **Van 2 April tot en met 17 April zijn we gesloten wegens werkzaamheden.**
 <style>
 blockquote { color:red;}
 </style>
