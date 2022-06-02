@@ -52,6 +52,6 @@ Sinds 2019 beschikken wij ook over een milieuhokje waar het gescheiden afval wor
 In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikking over 1 toilet door de beheerder aangewezen. Tevens zijn er 2 douches met warm water beschikbaar voor algemeen gebruik. Op de beide kopse kanten zijn er wasplaatsen. Op de voorste zijde zijn er 2 tappunten voor water.
 
 - [Kampvuurkuil](../assets/img/kampvuurkuil.jpg)
-- [Toiletgebouw](../assets/img/Velden/image00013.jpeg)
+- [Toiletgebouw](../assets/img/Velden/GR1_0010.JPG)
 - [MilieuHok](../assets/img/IMG-20190624-WA0000.jpg)
   
