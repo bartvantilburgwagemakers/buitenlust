@@ -23,7 +23,19 @@ Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan,
 
 ## Overnachtingsprijs
 
-De overnachtingprijs voor 2022 bedraagt € 2,50 per persoon per nacht.
+Tarieven voor 2023
+
+| :-------------------------------------------------: | :----------: |
+| Overnachting kosten per persoon per nacht         | € 3,00     |
+| Overnachting kosten Regio per persoon per nacht   | € 1,20     |
+| Borgsom per terrein                              | € 100,00     |
+| Douchemunten                                      | € 0,70     |
+| Badges                                            | € 1,50     |
+| Naambandjes                                       | € 0,30     |
+| Aanzichtkaarten                                   | € 0,20     |
+| Koelkast week / weekeind                          | € 15 / 5   |
+| Brandblusser per week                             | € 5        |
+| Milieuheffing per dag                             | € 2,00     |
 
 ## Andere prijzen   
 
