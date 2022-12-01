@@ -7,8 +7,7 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 ---
 
 - [Reservering](#reservering)
-- [Overnachtingsprijs](#overnachtingsprijs)
-- [Andere prijzen](#andere-prijzen)
+- [Tarieven voor 2023](#tarieven-voor-2023)
 - [Borgsom](#borgsom)
 - [Overzicht beschikbare terreinen](#overzicht-beschikbare-terreinen)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
@@ -21,25 +20,19 @@ blockquote { color:red;}
 </style>
 Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
 
-## Overnachtingsprijs
-
-Tarieven voor 2023
+## Tarieven voor 2023
 
 | :-------------------------------------------------: | :----------: |
 | Overnachting kosten per persoon per nacht         | € 3,00     |
 | Overnachting kosten Regio per persoon per nacht   | € 1,20     |
-| Borgsom per terrein                              | € 100,00     |
+| Borgsom per terrein                               | € 100,00   |
 | Douchemunten                                      | € 0,70     |
 | Badges                                            | € 1,50     |
 | Naambandjes                                       | € 0,30     |
 | Aanzichtkaarten                                   | € 0,20     |
-| Koelkast week / weekeind                          | € 15 / 5   |
-| Brandblusser per week                             | € 5        |
+| Koelkast week / weekeind                          | € 15,00 / 5,00   |
+| Brandblusser per week                             | € 5,00     |
 | Milieuheffing per dag                             | € 2,00     |
-
-## Andere prijzen   
-
-Koelkast is €5 voor weekend en €15 voor en week.  Douchemuntjes zijn €0,60 per muntje.  Brandblusser €5,00 per week of deel daar van.
 
 ## Borgsom
 
