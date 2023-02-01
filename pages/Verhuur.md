@@ -29,7 +29,7 @@ Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan,
 | Douchemunten                                      | € 0,70     |
 | Badges                                            | € 1,50     |
 | Naambandjes                                       | € 0,30     |
-| Aanzichtkaarten                                   | € 0,20     |
+| Ansichtkaarten                                   | € 0,20     |
 | Koelkast week / weekeind                          | € 15,00 / 5,00   |
 | Brandblusser per week                             | € 5,00     |
 | Milieuheffing per dag                             | € 2,00     |
