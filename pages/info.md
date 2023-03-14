@@ -38,9 +38,9 @@ Deze is te vinden op [https://www.scouting.nl/ondersteuning/juridische-zaken/hui
 In het hoogseizoen is de beheerder of de kampstaf op het terrein aanwezig. Indien afwezig zal er bij het kantoor altijd aangegeven staan waar deze te bereiken zijn.
 
 Het terrein is NIET telefonisch bereikbaar.  
-
-Beheerder Dhr. Ger Radt,
-Tel.: [06 - 22 40 29 82](tel:0622402982) Email: beheerder.buitenlust@gmail.com
+Beheerder Dhr. Frank peters,
+Tel.: [06 - 29 58 05 88](tel:+31629580588)
+ Email: beheerder.buitenlust@gmail.com
 
 ## Adres
 
