@@ -53,7 +53,7 @@ Voor de route beschrijving via google maps klik [hier](https://www.google.nl/map
 ## Noodnummer
 
 Bij noodgevallen tijdens het kamperen kunt u de beheerder bellen:
- [0031 (0)6 - 22 40 29 82](tel:0031622402982)
+ [+31 (0)6-29580588](tel:31629580588)
 
 Postadres tijdens uw kamp:
 
