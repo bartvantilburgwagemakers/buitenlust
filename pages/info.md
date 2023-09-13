@@ -16,8 +16,7 @@ permalink: /info
 
 
 ## Informatie boekje
-
-[Download hier pdf infoboekje 2023 ](../assets/Infoboekje buitenlust 2023.pdf)
+[Download hier pdf infoboekje 2024 ](../assets/Infoboekje buitenlust 2024.pdf)
 
 ## Privacybeleid 
 
