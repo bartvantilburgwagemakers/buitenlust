@@ -7,7 +7,7 @@ intro_paragraph: Hierin tref je gegevens aan omtrent de verhuur van onze terrein
 ---
 
 - [Reservering](#reservering)
-- [Tarieven voor 2023](#tarieven-voor-2023)
+- [Tarieven voor 2024](#tarieven-voor-2024)
 - [Borgsom](#borgsom)
 - [Overzicht beschikbare terreinen](#overzicht-beschikbare-terreinen)
 - [Aankomst en vertrek](#aankomst-en-vertrek)
@@ -20,7 +20,7 @@ blockquote { color:red;}
 </style>
 Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan, evenals het kampreglement, ingevuld of gelezen worden op deze website of worden aangevraagd bij de beheerder. Het is mogelijk een voorbereidingsweekend te houden. Hiervoor dient men wel apart te reserveren. Voor kamperen op Buitenlust van Scoutinggroepen is een geldige kampeermodule vereist.
 
-## Tarieven voor 2023
+## Tarieven voor 2024
 
 | :-------------------------------------------------: | :----------: |
 | Overnachting kosten per persoon per nacht         | € 3,00     |
