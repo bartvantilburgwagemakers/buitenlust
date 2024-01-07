@@ -18,4 +18,4 @@ Locatie Labelterrein:
 Buitenlust 11, 4661 AL.  
 Halsteren, gemeente Bergen op Zoom  
 Geen post adres behalve voor de post aan de groepen
-![Foto toiletgebouw gebouw](../assets/img/Velden/image00013.jpeg)
+![Foto toiletgebouw gebouw](../assets/img/Velden/GR1_0010.JPG)

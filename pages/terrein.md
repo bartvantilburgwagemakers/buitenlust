@@ -31,9 +31,6 @@ Dit veld is vernoemd naar Broeder Kostka die tot in de jaren 70 beheerder was va
 Kostka is een uniek stukje bos met een markant carré van statige bomen. Dit veld is geschikt voor groepen tot ca. 40 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Kostka" %}
 
-## Forten
-Rondom Bergen op Zoom lagen als onderdeel van de Zuidelijke Waterlinie een drietal forten. De onderstaande drie velden zijn naar deze forten vernoemd.
-
 ### Moermont
 Ook dit is een prachtig stuk bos met Douglas sparren maar heeft een meer open karakter en is geschikt voor groepen tot 60 personen.
 {% include image-gallery.html folder="/assets/img/Velden/Moermont" %}
@@ -55,6 +52,6 @@ Sinds 2019 beschikken wij ook over een milieuhokje waar het gescheiden afval wor
 In het toiletgebouw zijn er 6 aparte toiletten. Iedere groep heeft de beschikking over 1 toilet door de beheerder aangewezen. Tevens zijn er 2 douches met warm water beschikbaar voor algemeen gebruik. Op de beide kopse kanten zijn er wasplaatsen. Op de voorste zijde zijn er 2 tappunten voor water.
 
 - [Kampvuurkuil](../assets/img/kampvuurkuil.jpg)
-- [Toiletgebouw](../assets/img/Velden/image00013.jpeg)
+- [Toiletgebouw](../assets/img/Velden/GR1_0010.JPG)
 - [MilieuHok](../assets/img/IMG-20190624-WA0000.jpg)
   
