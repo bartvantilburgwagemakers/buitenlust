@@ -27,7 +27,7 @@ Reservering kan UITSLUITEND d.m.v. het [aanvraagformulier.](/aanvraag) Deze kan,
 | Overnachting kosten Regio per persoon per nacht   | € 1,20     |
 | Borgsom per terrein                               | € 100,00   |
 | Douchemunten                                      | € 0,70     |
-| Badges                                            | € 1,50     |
+| Badges                                            | € 2,00     |
 | Naambandjes                                       | € 0,30     |
 | Ansichtkaarten                                   | € 0,20     |
 | Koelkast week / weekeind                          | € 15,00 / 5,00   |
